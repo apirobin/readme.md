@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer: C++ / JS
+Developer: C# | JS | React (NodeJS) | Lua
 
 
 ## 🌐 Socials:
